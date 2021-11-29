@@ -1,4 +1,4 @@
-[![Build Status](https://app.travis-ci.com/ashwanthkumar/hello-world.g8.svg?branch=main)](https://app.travis-ci.com/ashwanthkumar/hello-world.g8)
+[![Build Status](https://app.travis-ci.com/ashwanthkumar/scala2-cli.g8.svg?branch=main)](https://app.travis-ci.com/ashwanthkumar/scala2-cli.g8)
 
 Originally forked from https://github.com/scala/hello-world.g8
 
