@@ -1,5 +1,5 @@
 scalaVersion := "2.13.7"
-name := "hello-world"
+name := "scala2-cli"
 organization := "in.ashwanthkumar.hacks"
 version := "1.0"
 
